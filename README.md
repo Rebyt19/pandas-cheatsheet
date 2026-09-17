@@ -2,7 +2,7 @@
 My pandas cheatsheet with examples
 
 ## № Темы
-### [Глава 1. Series](Series)
+### [Глава 1. Структура Series](Структура-Series)
 ### [Глава 2. DataFrame](DataFrame.md)
 ### [Глава 3. Фильтрация](Series.md)
 ### [Глава 4. Очистка данных](Series.md)
