@@ -2,4 +2,4 @@
 My pandas cheatsheet with examples
 
 # № Темы
-## Глава 1. Series
+## Глава 1. Series (Series/README.md)
